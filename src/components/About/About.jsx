@@ -15,32 +15,29 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img width={80} height={80} src={getImageUrl("about/location.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Where Do I Live?</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I am a high-school student and I live in Canberra, Australia.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+          <img width={80} height={80} src={getImageUrl("about/football.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Football Experience</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+I play in the semi-pro (youth) league in Australia (NPL)
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+          <img width={80} height={80} src={getImageUrl("about/military.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Army Cadet</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+I am also an Australian Army Cadet - my current rank is "Cadet Corporal", (I am going on a sergeant promotion course in July)
               </p>
             </div>
           </li>

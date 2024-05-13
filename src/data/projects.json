@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Project A - Guess The Number",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "My first ever project",
+    "skills": ["JavaScript", "CSS", "HTML"],
+    "demo": "https://spontaneous-flan-3bba48.netlify.app/",
+    "source": "https://github.com/siddhant-sapkota10/Guess-The-Number"
   },
   {
-    "title": "Project B",
+    "title": "Project B - Simple To Do List",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Helpful for school",
+    "skills": ["JavaScript", "CSS", "HTML"],
+    "demo": "https://starlit-chaja-b2c74d.netlify.app/",
+    "source": "https://github.com/siddhant-sapkota10/To-Do-List"
   },
   {
-    "title": "Project C",
+    "title": "Project C - StayHardFitness",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Workout Creator",
+    "skills": ["JavaScript", "CSS", "HTML"],
+    "demo": "https://scintillating-chimera-527784.netlify.app/",
+    "source": "https://github.com/siddhant-sapkota10/StayHardFitness---Workout-Creator"
   }
 ]
